@@ -1,4 +1,4 @@
-📊 Predictive Model for Competitive Exam Success
+📊 Predictive Model for Competitive Exam Success.
 Hybrid Bat Algorithm + Particle Swarm Optimization (BSO)
 📌 Project Overview
 
