@@ -1,0 +1,8 @@
+accuracy: 0.0
+features:
+- '2021'
+- '2020'
+- '2019'
+- '2018'
+model: Hybrid AIS + Bat Algorithm + Gradient Boosting
+project: Predictive Model for Competitive Exam Success
