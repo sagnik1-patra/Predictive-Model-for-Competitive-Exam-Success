@@ -1,5 +1,5 @@
 📊 Predictive Model for Competitive Exam Success.
-Hybrid Bat Algorithm + Particle Swarm Optimization (BSO)
+Hybrid Bat Algorithm + Particle Swarm Optimization (BSO),
 📌 Project Overview
 
 Competitive exams such as CAT, GATE, and UPSC require long-term preparation, but students often lack a clear, data-driven measure of readiness.
